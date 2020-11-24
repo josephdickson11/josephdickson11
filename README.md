@@ -1,7 +1,5 @@
 ## scientifique des données ⚡
 
-### call me Oladipupo if you can pronounce it
-
 - 🔭 I'm a python developer with a bias towards data science. 
 - 🌱 Currently focused on growth and advancement of skill
 - 💬 Ask me about all things data science, alllll!!!
