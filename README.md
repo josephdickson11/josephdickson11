@@ -1,4 +1,5 @@
 ## scientifique des données ⚡
+## new year power
 
 - 🔭 I'm a python developer with a bias towards data science. 
 - 🌱 Currently focused on growth and advancement of skill
