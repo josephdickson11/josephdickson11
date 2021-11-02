@@ -1,11 +1,10 @@
-## scientifique des données ⚡
+## Backend Engineer ⚡
 
 
-- 🔭 I'm a python developer with a bias towards data science. 
+- 🔭 I'm a python developer with a bias towards data science and backend engineering. 
 - 🌱 Currently focused on growth and advancement of skill
-- 💬 Ask me about all things data science, alllll!!!
-- 📫 reach me on my [mail](josepholadipupoibeun@gmail.com)
-  * facebook page will be up in no time 😄
+- 💬 Beginner Blockchain developer
+- 📫 reach me on my [mail](oladipupo.ibeun@gmail.com)
 
 <!--
 **josephdickson11/josephdickson11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
