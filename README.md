@@ -2,8 +2,8 @@
 
 
 - 🔭 I'm a python developer with a bias towards data science and backend engineering. 
-- 🌱 Currently focused on growth and advancement of skill
-- 💬 Beginner Blockchain developer
+- 🌱 Currently focused securing a position as a backend engineer at fast paced company.
+- 💬 Blockchain developer
 - 📫 reach me on my [mail](oladipupo.ibeun@gmail.com)
 
 <!--
