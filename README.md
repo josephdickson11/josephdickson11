@@ -1,8 +1,7 @@
 ## Devops Engineer ⚡
 
 
-- 🔭 I'm a python developer with a bias towards data science and backend engineering. 
-- 🌱 Currently focused securing a position as a Devops engineer at fast paced company.
+- 🔭 Devops Engineer with years of experience working with leading industry tools to support the successful development, deployment and observability of software projects and products 
 - 📫 reach me on my [mail](oladipupo.ibeun@gmail.com)
 
 <!--
