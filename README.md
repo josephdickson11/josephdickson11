@@ -3,6 +3,7 @@
 
 - 🔭 Devops Engineer with years of experience working with leading industry tools to support the successful development, deployment and observability of software projects and products 
 - 📫 reach me on my [mail](oladipupo.ibeun@gmail.com)
+- Also let's connect on [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=oladipupo-ibeun-38514a13b)
 
 <!--
 **josephdickson11/josephdickson11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
