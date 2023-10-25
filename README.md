@@ -3,6 +3,7 @@
 
 - 🔭 Devops Engineer with years of experience working with leading industry tools to support the successful development, deployment and observability of software projects and products 
 - 📫 reach me on my [mail](oladipupo.ibeun@gmail.com)
+- Learning frontend with [Oladipupo Ibeun](https://oladipupoibeun.com/)
 - Also let's connect on [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=oladipupo-ibeun-38514a13b)
 
 <!--
