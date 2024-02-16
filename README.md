@@ -1,7 +1,7 @@
 ## Devops Engineer ⚡
 
 
-- 🔭 Devops Engineer with years of experience working with leading industry tools to support the successful development, deployment and observability of software projects and products 
+- 🔭 Devops Engineer love using industry standard tools to support the successful development, deployment and observability of software projects and products 
 - 📫 reach me on my [mail](oladipupo.ibeun@gmail.com)
 - Learning frontend with [Oladipupo Ibeun](https://oladipupoibeun.com/)
 - Also let's connect on [LinkedIn](https://www.linkedin.com/in/oladipupo-ibeun-38514a13b/)
