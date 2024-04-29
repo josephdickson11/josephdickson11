@@ -5,7 +5,7 @@
 - 🔭 love using industry standard tools to support the successful development, deployment and observability of software projects and products 
 - 📫 reach me on my [mail](oladipupo.ibeun@gmail.com)
 - Learning frontend with [Oladipupo Ibeun](https://oladipupoibeun.com/)
-- Also let's connect on [LinkedIn](https://www.linkedin.com/in/oladipupo-ibeun-38514a13b/)
+- Also let's connect on [LinkedIn](https://www.linkedin.com/in/oladipupoibeun/)
 
 <!--
 **josephdickson11/josephdickson11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
