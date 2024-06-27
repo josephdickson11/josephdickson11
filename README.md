@@ -14,7 +14,6 @@ Hi there! I'm Oladipupo Ibeun, a passionate DevOps Engineer with a knack for int
 
 ### Skills & Tools
 
-#### Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
