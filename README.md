@@ -1,7 +1,7 @@
-## DevOps Engineer ⚡ 
+## Oladipupo Ibeun | DevOps Engineer ⚡ 
 ###### with some security practices somewhere in the middle 😄 
 
-Hi there! I'm Oladipupo Ibeun, a passionate DevOps Engineer with a knack for integrating security practices into my workflows.
+Hi there! I'm Ola, a passionate DevOps Engineer with a knack for integrating security practices into my workflows.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephdickson11&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
