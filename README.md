@@ -39,6 +39,16 @@ Hi there! I'm Oladipupo Ibeun, a passionate DevOps Engineer with a knack for int
 ![Wiz](https://img.shields.io/badge/Wiz-684FF5?style=flat-square&logo=wiz&logoColor=white)
 ![IriusRisk](https://img.shields.io/badge/IriusRisk-2D2D2D?style=flat-square&logo=iriusrisk&logoColor=white)
 
+### Websites I'm Currently Supporting
+
+<div style="margin-top: 10px; margin-bottom: 10px;">
+
+| Project Title | Description | Website |
+|---------------|-------------|---------|
+| Sproutly     | A web platform for managing the finance of education institutions. | [Project 1 Website](https://sproutly.africa) |
+| My Services     | My services. | [Project 2 Website](https://oladipupoibeun.com) |
+
+</div>
 
 
 ### Contact Me
@@ -51,19 +61,6 @@ Feel free to reach out via email or connect with me on LinkedIn!
 **josephdickson11/josephdickson11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephdickson11&layout=compact&theme=radical&count_private=true)
-
-### Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=josephdickson11&theme=radical)
-
-### Projects
-
-| Project Title | Repo | URL |
-|---------------|------|-----|
-| Project 1     | [Repo Link](https://github.com/josephdickson11/project1) | [Project 1](https://github.com/josephdickson11/project1) |
-| Project 2     | [Repo Link](https://github.com/josephdickson11/project2) | [Project 2](https://github.com/josephdickson11/project2) |
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
