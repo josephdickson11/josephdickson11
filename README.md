@@ -45,8 +45,8 @@ Hi there! I'm Ola, a passionate DevOps Engineer with a knack for integrating sec
 
 | Project Title | Description | Website |
 |---------------|-------------|---------|
-| Sproutly     | A web platform for managing the finance of education institutions. | [Project 1 Website](https://sproutly.africa) |
-| My Services     | My services. | [Project 2 Website](https://oladipupoibeun.com) |
+| Sproutly     | A web platform for managing the finance of education institutions. | [Sproutly.africa](https://sproutly.africa) |
+| My Services     | My services. | [Oladipupo Ibeun](https://oladipupoibeun.com) |
 
 </div>
 
