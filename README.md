@@ -3,7 +3,6 @@
 
 Hi there! I'm Ola, a passionate DevOps Engineer with a knack for integrating security practices into my workflows.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephdickson11&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ### About Me
 
@@ -58,6 +57,8 @@ Feel free to reach out via email or connect with me on LinkedIn!
 ---
 
 <!--
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephdickson11&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 **josephdickson11/josephdickson11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
