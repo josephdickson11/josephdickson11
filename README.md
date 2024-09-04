@@ -1,4 +1,5 @@
-## Oladipupo Ibeun | DevOps Engineer ⚡ 
+## Oladipupo Ibeun 
+### DevOps || Cloud || Security ⚡ 
 ###### with some security practices somewhere in the middle 😄 
 
 Hi there! I'm Ola, a passionate DevOps Engineer with a knack for integrating security practices into my workflows.
