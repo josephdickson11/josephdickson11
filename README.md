@@ -38,16 +38,7 @@ Hi there! I'm Ola, a passionate DevOps Engineer with a knack for integrating sec
 ![Wiz](https://img.shields.io/badge/Wiz-684FF5?style=flat-square&logo=wiz&logoColor=white)
 ![IriusRisk](https://img.shields.io/badge/IriusRisk-2D2D2D?style=flat-square&logo=iriusrisk&logoColor=white)
 
-### Websites I'm Currently Supporting
 
-<div style="margin-top: 10px; margin-bottom: 10px;">
-
-| Project Title | Description | Website |
-|---------------|-------------|---------|
-| Sproutly     | A web platform for managing the finance of education institutions. | [Sproutly.africa](https://sproutly.africa) |
-| My Services     | My services. | [Oladipupo Ibeun](https://oladipupoibeun.com) |
-
-</div>
 
 
 
