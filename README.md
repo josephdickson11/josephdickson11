@@ -1,68 +1,58 @@
-## Oladipupo Ibeun 
-### DevOps || Cloud || Security ⚡ 
+---
 
-Hi there! I'm Ola, a passionate DevOps Engineer with a knack for integrating security practices into my workflows.
+# Oladipupo Ibeun  
+### DevOps Engineer | Cloud Enthusiast | Security Advocate ⚡  
 
-
-### About Me
-
-- 🔭 Love using industry-standard tools to support the successful development, deployment, and observability of software projects and products.
-- 📫 Reach me on my [mail](mailto:oladipupo.ibeun@gmail.com)
-- 🌱 Learning frontend with [Oladipupo Ibeun](https://oladipupoibeun.com/)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/oladipupoibeun/)
-
-### Skills & Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-330F63?style=flat-square&logo=gitlab&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Bash Scripting](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-1F93FF?style=flat-square&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF8800?style=flat-square&logo=burp-suite&logoColor=white)
-![Acunetix](https://img.shields.io/badge/Acunetix-FC3158?style=flat-square&logo=acunetix&logoColor=white)
-![Mend](https://img.shields.io/badge/Mend-39AD77?style=flat-square&logo=mend&logoColor=white)
-![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=flat-square&logo=checkmarx&logoColor=white)
-![Wiz](https://img.shields.io/badge/Wiz-684FF5?style=flat-square&logo=wiz&logoColor=white)
-![IriusRisk](https://img.shields.io/badge/IriusRisk-2D2D2D?style=flat-square&logo=iriusrisk&logoColor=white)
-
-
-
-
-
-
-### Contact Me
-
-Feel free to reach out via email or connect with me on LinkedIn!
+Hey there! 👋 I’m Ola, a DevOps Engineer who thrives at the intersection of automation, cloud infrastructure, and security. I’m passionate about building resilient systems, streamlining workflows, and keeping things secure from code to cloud.
 
 ---
 
-<!--
+## About Me  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephdickson11&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-**josephdickson11/josephdickson11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I specialize in using cutting-edge tools to drive development, deployment, and observability for software projects.  
+- 🌱 Currently sharpening my frontend skills—check out my journey at [oladipupoibeun.com](https://oladipupoibeun.netlify.app/).  
+- 💡 I’m all about integrating security into DevOps (DevSecOps is my jam!).  
+- 📫 Reach me at [oladipupo.ibeun@gmail.com](mailto:oladipupo.ibeun@gmail.com).  
+- 💼 Let’s connect on [LinkedIn](https://www.linkedin.com/in/oladipupoibeun/).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👋
--->
+## Skills & Toolbox  
+
+Here’s what I bring to the table—tools and tech I wield to build, deploy, and secure:  
+
+| **Core DevOps**          | **Cloud Platforms**     | **Security Tools**       | **Programming & More**  |  
+|---------------------------|-------------------------|--------------------------|-------------------------|  
+| ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) | ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |  
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-1F93FF?style=flat-square&logo=owasp&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |  
+| ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF8800?style=flat-square&logo=burp-suite&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |  
+| ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ![OCI](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white) | ![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |  
+| ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) | ![Hetzner](https://img.shields.io/badge/Hetzner-FF6600?style=flat-square&logo=hetzner&logoColor=white) | ![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=flat-square&logo=checkmarx&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |  
+| ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) | ![Wiz](https://img.shields.io/badge/Wiz-684FF5?style=flat-square&logo=wiz&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |  
+
+*And more*: GitLab CI, CircleCI, SonarQube, Acunetix, Mend, IriusRisk—you name it, I’ve probably tinkered with it!  
+
+---
+
+## What I’m Up To  
+
+- 🚀 Crafting infrastructure-as-code projects and diving into cloud-native solutions.  
+- 🌍 Building innovative tools and platforms with [nexusnovacore.com](https://nexusnovacore.com/) and [usefable.xyz](https://usefable.xyz/).  
+- 🎓 Expanding my skills in AI and frontend development to evolve into a full-stack DevOps pro.  
+- 🤝 Open to collaborating on DevOps, cloud, AI, or security-focused projects—let’s build something awesome together!  
+- ⚡ Fun fact: ************
+
+---
+
+## Let’s Connect  
+
+Got a project in mind? Want to talk DevOps, cloud, or security? Reach out!  
+- 📧 [Email me](mailto:oladipupo.ibeun@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/oladipupoibeun/)  
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephdickson11&layout=compact&theme=radical&hide_border=true)  
+*This is my “special” repository—because it’s the hub of my GitHub profile!*
+
+---
