@@ -3,7 +3,7 @@
 # Oladipupo Ibeun  
 ### DevOps Engineer | Cloud Enthusiast | Security Advocate ⚡  
 
-Hey there! 👋 I’m Ola, a DevOps Engineer who thrives at the intersection of Solution architecting, automation, cloud infrastructure, and security. I’m passionate about building resilient systems, streamlining workflows, and keeping things secure from code to cloud.
+Hey there! 👋 I’m Ola, a guy who thrives at the intersection of Solution architecting, automation, cloud infrastructure, and security. I’m passionate about building resilient systems, streamlining workflows, and keeping things secure from code to cloud.
 
 ---
 
