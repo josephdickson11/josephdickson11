@@ -13,7 +13,9 @@ Hey there! 👋 I’m Ola, a guy who thrives at the intersection of Solution arc
 - 🌱 Currently sharpening my frontend skills—check out my journey at [oladipupoibeun.com](https://oladipupoibeun.netlify.app/).  
 - 💡 I’m all about integrating security into DevOps (DevSecOps is my jam!).  
 - 📫 Reach me at [oladipupo.ibeun@gmail.com](mailto:oladipupo.ibeun@gmail.com).  
-- 💼 Let’s connect on [LinkedIn](https://www.linkedin.com/in/oladipupoibeun/).  
+- 💼 Let’s connect:
+  - [LinkedIn](https://www.linkedin.com/in/oladipupoibeun/).
+  - [X.com](https://x.com/JosephIbeun)
 
 ---
 
