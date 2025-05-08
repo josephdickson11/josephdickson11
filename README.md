@@ -13,7 +13,7 @@ Hey there! 👋 I’m Ola, a guy who thrives at the intersection of Solution arc
 - 🌱 Currently sharpening my frontend skills—check out my journey at [oladipupoibeun.com](https://oladipupoibeun.netlify.app/).  
 - 💡 I’m all about integrating security into DevOps (DevSecOps is my jam!).  
 - 📫 Reach me at [oladipupo.ibeun@gmail.com](mailto:oladipupo.ibeun@gmail.com).  
-- 💼 Let’s connect:
+- 💼 Let’s connect: Got a project in mind? Want to talk DevOps, cloud, or security? Reach out!
   - [LinkedIn](https://www.linkedin.com/in/oladipupoibeun/)
   - [X.com](https://x.com/JosephIbeun)
 
@@ -40,17 +40,13 @@ Here’s what I bring to the table—tools and tech I wield to build, deploy, an
 
 - 🚀 Crafting infrastructure-as-code architecture, Cloud deployment architecture and diving into cloud-native solutions.  
 - 🌍 Building innovative tools and platforms with [nexusnovacore.com](https://nexusnovacore.com/), [usefable.xyz](https://usefable.xyz/) and [dukka.com](https://dukka.com)  
-- 🎓 Expanding my skills in AI and frontend development to evolve into a full-stack DevOps.  
+- 🎓 Expanding my skills in AI 
 - 🤝 Open to collaborating on DevOps, cloud, AI, or security-focused projects—let’s build something awesome together!  
 - ⚡ Fun fact: ************
 
 ---
 
-## Let’s Connect  
 
-Got a project in mind? Want to talk DevOps, cloud, or security? Reach out!  
-- 📧 [Email me](mailto:oladipupo.ibeun@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/oladipupoibeun/)  
 
 ---
 
