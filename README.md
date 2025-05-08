@@ -14,7 +14,7 @@ Hey there! 👋 I’m Ola, a guy who thrives at the intersection of Solution arc
 - 💡 I’m all about integrating security into DevOps (DevSecOps is my jam!).  
 - 📫 Reach me at [oladipupo.ibeun@gmail.com](mailto:oladipupo.ibeun@gmail.com).  
 - 💼 Let’s connect:
-  - [LinkedIn](https://www.linkedin.com/in/oladipupoibeun/).
+  - [LinkedIn](https://www.linkedin.com/in/oladipupoibeun/)
   - [X.com](https://x.com/JosephIbeun)
 
 ---
