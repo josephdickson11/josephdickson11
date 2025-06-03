@@ -51,6 +51,6 @@ Here’s what I bring to the table—tools and tech I wield to build, deploy, an
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephdickson11&layout=compact&theme=radical&hide_border=true)  
-*This is my “special” repository—because it’s the hub of my GitHub profile!*
+
 
 ---
