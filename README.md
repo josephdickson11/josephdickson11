@@ -50,7 +50,7 @@ Here’s what I bring to the table—tools and tech I wield to build, deploy, an
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephdickson11&layout=compact&theme=radical&hide_border=true)  
+  
 
 
 ---
