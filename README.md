@@ -10,7 +10,7 @@ Hey there! 👋 I’m Ola, a guy who thrives at the intersection of Solution arc
 ## About Me  
 
 - 🔭 I specialize in using cutting-edge tools to drive development, deployment, and observability for software projects.  
-- 🌱 Currently sharpening my frontend skills—check out my journey at [oladipupoibeun.com](https://oladipupoibeun.netlify.app/).  
+- 🌱 Currently sharpening my frontend skills—check out my journey at [olaibeun.com](https://olaibeun.com/)
 - 💡 I’m all about integrating security into DevOps (DevSecOps is my jam!).  
 - 📫 Reach me at [oladipupo.ibeun@gmail.com](mailto:oladipupo.ibeun@gmail.com).  
 - 💼 Let’s connect: Got a project in mind? Want to talk DevOps, cloud, or security? Reach out!
