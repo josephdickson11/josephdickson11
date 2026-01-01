@@ -39,8 +39,8 @@ Here’s what I bring to the table—tools and tech I wield to build, deploy, an
 ## What I’m Up To  
 
 - 🚀 Crafting infrastructure-as-code architecture, Cloud deployment architecture and diving into cloud-native solutions.  
-- 🌍 Building innovative tools and platforms with [nexusnovacore.com](https://nexusnovacore.com/), [usefable.xyz](https://usefable.xyz/) and [dukka.com](https://dukka.com)  
-- 🎓 Expanding my skills in AI 
+- 🌍 Building innovative tools and platforms.
+- 🎓 Expanding my skills in AI.
 - 🤝 Open to collaborating on DevOps, cloud, AI, or security-focused projects—let’s build something awesome together!  
 - ⚡ Fun fact: ************
 
