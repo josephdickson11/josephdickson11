@@ -1,6 +1,6 @@
 # Hi, I'm Ola 👋
 
-DevOps Engineer specializing in cloud infrastructure, automation, and security. I build resilient systems and streamline workflows — from code to cloud.
+DevOps Engineer specializing in cloud infrastructure, full-stack development, automation, and security. I build resilient systems and streamline workflows — from code to cloud.
 
 ## What I Do
 
@@ -12,9 +12,9 @@ DevOps Engineer specializing in cloud infrastructure, automation, and security. 
 
 ## Currently
 
-- Architecting cloud-native infrastructure-as-code solutions
-- Exploring AI and expanding my frontend skills — [olaibeun.com](https://olaibeun.com/)
-- Open to collaborating on DevOps, cloud, or security-focused projects
+- Architecting some cool product
+- Building AI Agentic Workflows   — [olaibeun.com](https://olaibeun.com/)
+- Open to collaborating on DevOps, full-stack development, cloud, or security-focused projects
 
 ## Let's Connect
 
