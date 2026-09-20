@@ -1,6 +1,6 @@
 # Hi, I'm Ola
 
-DevOps Engineer specializing in cloud infrastructure, full-stack development, automation, and security. I build resilient systems and streamline workflows — from code to cloud.
+DevOps Engineer specializing in cloud infrastructure, full-stack development, automation, and security. I build resilient systems and streamline workflows, from code to cloud.
 
 ## What I Do
 
